@@ -1,0 +1,38 @@
+
+.form-section {
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    max-width: 400px;
+    background-color: #282828;
+    border-radius: 10px;
+}
+
+.form-section h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+.form-section input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    background: #1E1E1E;
+    color: #FFFFFF;
+}
+
+.form-section button {
+    background-color: rgba(114, 44, 51, 1);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.form-section button:hover {
+    background-color: rgb(149, 67, 76);
+}
